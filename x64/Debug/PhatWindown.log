@@ -1,0 +1,19 @@
+﻿  MyCore.cpp
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(140,41): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(170,75): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(173,89): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(178,77): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(182,79): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(210,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(214,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(217,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(221,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(224,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(228,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(231,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(235,21): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(238,18): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(247,55): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(319,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\TruongPhat\source\repos\PhatWindown\PhatWindown\MyCore.cpp(322,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  PhatWindown.vcxproj -> C:\Users\TruongPhat\source\repos\PhatWindown\x64\Debug\PhatWindown.exe

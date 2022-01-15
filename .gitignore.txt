@@ -1,0 +1,4 @@
+/x64
+PhatWindown.vcxproj.user
+PhatWindown.vcxproj
+PhatWindown.vcxproj.filters
